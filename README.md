@@ -1,0 +1,2 @@
+# automatization_qa_training
+Курс тестировщик автоматизатор
